@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    font-family: Arial, Helvetica, sans-serif;    
+    font-family: 'Inter', sans-serif;   
 }
 #menuSuperior{
     background-color: #303030;
@@ -56,7 +56,6 @@
     max-width: 1024px;
     width: 100%;
     margin: 0 auto;
-
   }
 
   #secaoTextoImage h1{
@@ -80,12 +79,16 @@ border-radius: 30px;
     text-align: center;
     display: grid;
     justify-content: center;
+    background: #303030;
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
 }
 
 #tituloformulario {
     font-size: 25px;
     margin-top: 25px;
-    color: #383838;
+    color: #FFFFFF;
 }
 
 
@@ -101,7 +104,7 @@ input{
 }
 input {
     height: 30px;
-    background-color: #EAECE5;
+    background-color: #FFFFFF;
     margin: 15px 0;
     border-radius: 4px;
     border: 1px solid #ccc;
